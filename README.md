@@ -1,4 +1,4 @@
-# Cliff_BalearicIslands_ENM
+# ENM cliff plants habitats in Balearic Islands
 Ocurrences database and R script to generate de ENM/SDM
 
 <a href="https://doi.org/10.5281/zenodo.13362066"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13362067.svg" alt="DOI"></a>
